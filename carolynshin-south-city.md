@@ -3,3 +3,4 @@
 - [Little Lucca](https://www.yelp.com/biz/little-lucca-sandwich-shop-and-deli-south-san-francisco)
 - [Ben Tre](https://www.yelp.com/biz/ben-tre-vietnamese-homestyle-cuisine-south-san-francisco)
 - [Bon Chon](https://www.yelp.com/biz/bonchon-south-san-francisco-2)
+- [Hometown Heroes](https://www.yelp.com/biz/hometown-heroes-south-san-francisco?osq=best+place+to+watch+baseball)
