@@ -6,7 +6,9 @@
 - water
 -- safeway
 -- it is raining and take an umbralla
+
 ## places to visit
 - The palaces
 - Arm museums
-- Broadway Show
+- Broadway Show :sun_with_face
+-
