@@ -5,3 +5,4 @@
 - dinner-snacks
 - water
 -- safeway
+-- it is raining and take an umbralla
