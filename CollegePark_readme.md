@@ -1,4 +1,4 @@
 ## Places to eat
-- Ten Ren
+- Ten Ren (online)
 - Town Hall :beer:
 - Looneys :beer:
