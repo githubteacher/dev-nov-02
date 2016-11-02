@@ -5,4 +5,9 @@
 - Roast
 - Green Dot Stables
 - Slows BBQ
-- Andiamo
+- Kale-fornia
+
+### Places to Go
+- Campus Martius
+- Comerica Park
+- Riverwalk
