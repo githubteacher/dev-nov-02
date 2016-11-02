@@ -4,3 +4,6 @@
  - Duke's Beach House :surfer:
  - Ono Tacos :ok_hand:
  - Ululani's Hawaiian Shave Ice :shaved_ice:
+
+# Places to Visit
+ - Haleakala National Park :sun_with_face:
