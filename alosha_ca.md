@@ -4,3 +4,4 @@
 - seattle
 - moscow :fire:
 - tampa
+- boston
