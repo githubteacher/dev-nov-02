@@ -5,3 +5,4 @@
  - McSorley's :beer:
  - Bakery on corner of 27th and 3rd
  - Buhkara Grill
+ - Little Tail Sheep (Chinatown)
