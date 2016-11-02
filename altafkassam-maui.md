@@ -7,3 +7,4 @@
 
 # Places to Visit
  - Haleakala National Park :sun_with_face:
+ - :volcano:
