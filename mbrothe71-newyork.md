@@ -2,4 +2,6 @@
  - The Kyber Pass
  - Veselka
  - The Palm
- - McSorley's
+ - McSorley's :beer:
+ - Bakery on corner of 27th and 3rd
+ - Buhkara Grill
