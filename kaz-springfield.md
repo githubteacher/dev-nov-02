@@ -2,3 +2,8 @@
 -
 -
 -
+
+### Nearby towns
+- Anywhere, USA
+- Canada
+- ~~Switzerland~~
