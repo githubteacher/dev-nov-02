@@ -1,7 +1,8 @@
 ## Places to Eat
+ - Thai Paradise 
  - Yummy Garden
- - Thai Paradise
- - BJ's
+ - BJ's :beer:
+
  
  
  
